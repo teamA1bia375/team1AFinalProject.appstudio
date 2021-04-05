@@ -14,3 +14,5 @@ btnUserInfo.onclick=function(){
 btnLogin.onclick=function(){
   ChangeForm(UserPage)
 }
+
+// This is Chin-Hwa 2:54pm
