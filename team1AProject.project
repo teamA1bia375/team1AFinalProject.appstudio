@@ -49,6 +49,22 @@
             "UserPage",
             "UserPage.json"
           ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "Map",
+            "Map.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "AddRecipient",
+            "AddRecipient.json"
+          ]
         }
       ],
       "configxml": null,
