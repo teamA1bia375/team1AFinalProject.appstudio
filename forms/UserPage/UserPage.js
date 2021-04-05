@@ -20,3 +20,7 @@ UserPage.onshow = function(){
 btnUserPageBack.onclick=function(){
   ChangeForm(HomePage)
 }
+
+btnSubmit.onclick=function(){
+  
+}

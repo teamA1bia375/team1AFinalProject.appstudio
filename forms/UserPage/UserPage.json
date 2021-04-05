@@ -36,6 +36,15 @@
         "Elements",
         "lblMessage.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "btnSubmit.json"
+      ]
     }
   ],
   "class": "",
