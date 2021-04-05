@@ -24,7 +24,11 @@ btnUserPageBack.onclick=function(){
 btnSubmit.onclick=function(){
   let message = ""
   for (i = 0; i < selRecipientList.text.length; i++)
-     message = message + selRecipientList.text[i] + ", "
+     message = message + selRecipientList.text[i]
      
-  lblMessage3.value = `You chose to send your notification to ${message}`
+  lblMessage.value = `You chose to send your notification to ${message}`
+}
+
+btnNewRecipient.onclick=function(){
+  ChangeForm(AddRecipient)
 }

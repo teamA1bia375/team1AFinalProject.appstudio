@@ -45,6 +45,15 @@
         "Elements",
         "selRecipientList.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "btnNewRecipient.json"
+      ]
     }
   ],
   "class": "",
