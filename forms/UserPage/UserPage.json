@@ -16,15 +16,6 @@
         "forms",
         "UserPage",
         "Elements",
-        "txtaRecipientList.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "UserPage",
-        "Elements",
         "btnUserPageBack.json"
       ]
     },
@@ -45,6 +36,15 @@
         "Elements",
         "btnSubmit.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "selRecipientList.json"
+      ]
     }
   ],
   "class": "",
@@ -61,7 +61,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "UserPage.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",
