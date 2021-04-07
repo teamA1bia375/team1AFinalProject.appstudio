@@ -150,7 +150,9 @@
   "filename": "",
   "id": "",
   "language_version": 8,
-  "libraries": [],
+  "libraries": [
+    "Stanford Crypto Library"
+  ],
   "phonegap_auth_token": "",
   "phonegap_email": "",
   "phonegap_password": "",
