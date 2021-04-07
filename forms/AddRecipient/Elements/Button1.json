@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnAdd",
-  "left": 218,
+  "id": "Button1",
+  "left": 17,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnAdd.onclick()",
+  "onclick": "Button1.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -61,6 +61,6 @@
   "style": "",
   "toggleControl": "",
   "top": 289,
-  "value": "Add Recipient",
-  "width": 95
+  "value": "Back to Recipient Page",
+  "width": 143
 }
