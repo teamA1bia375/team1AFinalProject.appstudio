@@ -45,6 +45,15 @@
         "Elements",
         "btnAdd.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddRecipient",
+        "Elements",
+        "lblMessage1.json"
+      ]
     }
   ],
   "class": "",
