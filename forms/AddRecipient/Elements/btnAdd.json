@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnAdd",
-  "left": 218,
+  "left": 208,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 289,
-  "value": "Add Recipient",
+  "top": 293,
+  "value": "Submit",
   "width": 95
 }
