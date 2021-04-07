@@ -13,3 +13,7 @@ btnAdd.onclick=function(){
   } else
     lblMessage1.value = "Error: " + req.status
 }
+
+Button1.onclick=function(){
+  ChangeForm(UserPage)
+}
