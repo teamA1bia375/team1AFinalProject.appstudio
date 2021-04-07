@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnNewRecipient",
-  "left": 168,
+  "left": 181,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 307,
+  "top": 305,
   "value": "Add a New Recipient",
-  "width": "auto"
+  "width": 125
 }
