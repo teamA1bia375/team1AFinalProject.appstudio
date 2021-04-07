@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnNewRecipient",
-  "left": 153,
+  "id": "btnAdd",
+  "left": 208,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnNewRecipient.onclick()",
+  "onclick": "btnAdd.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 305,
-  "value": "Add a New Recipient",
-  "width": 125
+  "top": 293,
+  "value": "Submit",
+  "width": 95
 }
