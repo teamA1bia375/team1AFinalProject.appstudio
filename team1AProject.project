@@ -10,6 +10,7 @@
       "PWA_Manifest": null,
       "androidAlias": "key0",
       "androidAliasPassword": "mypassword",
+      "androidDname": "cn=myname, ou=mygroup, o=mycompany, c=mycountry",
       "androidKeystore": "certificates/android.p12",
       "androidKeystorePassword": "mypassword",
       "background": "",
