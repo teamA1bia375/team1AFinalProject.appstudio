@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "Button1",
-  "left": 17,
+  "left": 21,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 289,
-  "value": "Back to Recipient Page",
-  "width": 143
+  "top": 294,
+  "value": "Back",
+  "width": 91
 }
