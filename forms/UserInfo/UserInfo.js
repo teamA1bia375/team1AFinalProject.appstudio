@@ -17,5 +17,5 @@ btnUserAdd.onclick = function() {
 
 
 btnUserBack.onclick=function(){
-  ChangeForm(HomePage)
+  ChangeForm(UserInfo)
 }
