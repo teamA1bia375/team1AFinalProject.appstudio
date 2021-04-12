@@ -17,7 +17,11 @@ btnUserAdd.onclick = function() {
     lblConfirm.textContent = "Error: " + req.status
 }
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
+=======
+  
+>>>>>>> Stashed changes
 =======
   
 >>>>>>> Stashed changes
