@@ -16,15 +16,7 @@ btnUserAdd.onclick = function() {
   } else
     lblConfirm.textContent = "Error: " + req.status
 }
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
 
-=======
-  
->>>>>>> Stashed changes
-=======
-  
->>>>>>> Stashed changes
 btnUserBack.onclick=function(){
   ChangeForm(HomePage)
 }
