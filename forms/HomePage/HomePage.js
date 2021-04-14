@@ -49,5 +49,5 @@ btnLogin.onclick=function(){
 
 //GO TO SIGNIN PAGE
 btnUserInfo.onclick=function(){
-  ChangeForm(UserPage)
+  ChangeForm(UserInfo)
 }
