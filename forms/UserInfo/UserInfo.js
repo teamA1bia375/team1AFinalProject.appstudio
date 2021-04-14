@@ -16,7 +16,7 @@ btnUserAdd.onclick = function() {
   } else
     lblConfirm.textContent = "Error: " + req.status
 }
-  
+
 btnUserBack.onclick=function(){
   ChangeForm(HomePage)
 }
