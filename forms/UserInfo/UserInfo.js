@@ -3,10 +3,8 @@ btnUserAdd.onclick = function() {
   let lastName = inptLastName.value
   let currentLocation = inptCurrLocation.value
   let userEmail = inptEmail.value
-  let userName = inptUserName.value
-  let password = inptPass.value
   
-  let query = "INSERT INTO user (`first_name`, `last_name`, `current_location`, `email`,`userName`, `password`) VALUES ('" + firstName + "', '" + lastName + "', '" + currentLocation + "', '" + userEmail + "', '" + userName + "', '" + password + "')"
+  let query = "INSERT INTO user (`first_name`, `last_name`, `current_location`, `email`) VALUES ('" + firstName + "', '" + lastName + "', '" + currentLocation + "', '" + userEmail + "')"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
   if (req.status == 200) {
     if (req.responseText == 500)
@@ -16,7 +14,8 @@ btnUserAdd.onclick = function() {
   } else
     lblConfirm.textContent = "Error: " + req.status
 }
-  
+
+
 btnUserBack.onclick=function(){
-  ChangeForm(HomePage)
+  ChangeForm(UserInfo)
 }

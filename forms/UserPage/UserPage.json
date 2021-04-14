@@ -54,6 +54,15 @@
         "Elements",
         "btnNewRecipient.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "lblAccount.json"
+      ]
     }
   ],
   "class": "",

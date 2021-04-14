@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnUserBack",
-  "left": 208,
+  "id": "Button1",
+  "left": 21,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnUserBack.onclick()",
+  "onclick": "Button1.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 354,
+  "top": 294,
   "value": "Back",
-  "width": "auto"
+  "width": 91
 }

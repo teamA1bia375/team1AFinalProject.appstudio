@@ -14,6 +14,6 @@ btnAdd.onclick=function(){
     lblMessage1.value = "Error: " + req.status
 }
 
-btnDone.onclick=function(){
+Button1.onclick=function(){
   ChangeForm(UserPage)
 }
