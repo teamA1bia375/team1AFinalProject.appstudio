@@ -40,6 +40,7 @@ btnLogin.onclick=function(){
         } // end else
 */
 }
+}
 
 
 btnUserInfo.onclick=function(){
