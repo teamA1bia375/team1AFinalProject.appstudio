@@ -72,24 +72,6 @@
         "Elements",
         "btnUserBack.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "UserInfo",
-        "Elements",
-        "inptUserName.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "UserInfo",
-        "Elements",
-        "inptPass.json"
-      ]
     }
   ],
   "class": "",

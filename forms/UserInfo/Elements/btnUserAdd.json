@@ -29,7 +29,6 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnUserAdd",
-  "left": 17,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +59,6 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 393,
   "value": "Submit",
   "width": "auto"
 }
