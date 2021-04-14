@@ -6,5 +6,3 @@ Switch1.onchange = function() {
   else
     Label1.value = "Not tracking your location"
 }
-
-// This is a test, chin-hwa

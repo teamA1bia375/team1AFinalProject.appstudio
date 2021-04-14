@@ -1,4 +1,5 @@
 UserPage.onshow = function(){
+  lblAccount.value = userName
   query = "SELECT name FROM recipient"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
   

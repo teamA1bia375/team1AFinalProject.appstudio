@@ -28,14 +28,14 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnLogin",
-  "left": 119,
+  "id": "Button1",
+  "left": 21,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnLogin.onclick()",
+  "onclick": "Button1.onclick()",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 186,
-  "value": "SIGN IN",
-  "width": "auto"
+  "top": 294,
+  "value": "Back",
+  "width": 91
 }

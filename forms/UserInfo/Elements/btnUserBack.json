@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnUserBack",
-  "left": 238,
+  "left": 228,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 411,
+  "top": 393,
   "value": "Back",
   "width": "auto"
 }
