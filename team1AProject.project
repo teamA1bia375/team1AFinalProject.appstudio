@@ -39,14 +39,6 @@
           "!type": "External",
           "file": [
             "forms",
-            "TestPage",
-            "TestPage.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
             "UserPage",
             "UserPage.json"
           ]
