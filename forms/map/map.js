@@ -18,7 +18,6 @@ function gotLocation(location, lat, long) {
         position: point1
     });
 
-
 };
 
 Button1.onclick = function() {
