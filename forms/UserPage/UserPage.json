@@ -67,6 +67,15 @@
         "lblLoggedIn2.json"
 >>>>>>> Stashed changes
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "lblLoggedIn2.json"
+      ]
     }
   ],
   "class": "",
