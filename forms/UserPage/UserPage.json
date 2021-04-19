@@ -63,6 +63,15 @@
         "Elements",
         "lblAccount.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "lblLoggedIn2.json"
+      ]
     }
   ],
   "class": "",

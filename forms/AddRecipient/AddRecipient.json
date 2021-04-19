@@ -63,6 +63,15 @@
         "Elements",
         "Button1.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddRecipient",
+        "Elements",
+        "lblLoggedIn.json"
+      ]
     }
   ],
   "class": "",

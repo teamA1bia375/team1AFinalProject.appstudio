@@ -25,3 +25,7 @@ btnAdd.onclick=function(){
 Button1.onclick=function(){
   ChangeForm(UserPage)
 }
+
+AddRecipient.onshow=function(){
+  lblLoggedIn.value = userName
+}
