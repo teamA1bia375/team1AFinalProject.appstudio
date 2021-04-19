@@ -1,6 +1,6 @@
-var marker
-var infowindow
-var currentLat, currentLong
+let marker
+let infoWindow
+let currentLat, currentLong
 
 function gotLocation(location, lat, long) {
 
@@ -20,7 +20,7 @@ function gotLocation(location, lat, long) {
 
 };
 
-Button1.onclick = function() {
+btnCurrentLoc.onclick = function() {
     // have to run this before you do anything else - call this getLocation button
     navigator.geolocation.getCurrentPosition(gotLocation)
     NSB.WaitCursor(true)
