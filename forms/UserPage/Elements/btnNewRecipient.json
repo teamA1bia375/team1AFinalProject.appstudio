@@ -29,13 +29,13 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnNewRecipient",
-  "left": 153,
+  "left": 144,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
   "mRight": "",
   "mTop": "",
-  "onclick": "btnNewRecipient.onclick()",
+  "onclick": "",
   "onmousedown": "",
   "onmousemove": "",
   "onmouseout": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 305,
-  "value": "Add a New Recipient",
-  "width": 125
+  "top": 227,
+  "value": "Add Receipients",
+  "width": "auto"
 }
