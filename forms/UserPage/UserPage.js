@@ -1,5 +1,6 @@
 UserPage.onshow = function(){
-  query = "SELECT name FROM recipient"
+  lblLoggedIn2.value = userName
+  query = "SELECT name FROM recipient NATURAL JOIN user_recipient WHERE userName = '" + userName + "'"
   req = Ajax("https://ormond.creighton.edu/courses/375/ajax-connection.php", "POST", "host=ormond.creighton.edu&user=" + netID + "&pass=" + pw + "&database=" + database + "&query=" + query)
   
   if (req.status == 200) { //transit trip worked. 

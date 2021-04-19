@@ -45,6 +45,24 @@
         "Elements",
         "btnLogin.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "inptPassword.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "HomePage",
+        "Elements",
+        "lblMessage2.json"
+      ]
     }
   ],
   "class": "",

@@ -16,7 +16,16 @@
         "forms",
         "UserPage",
         "Elements",
-        "btnUserPageBack.json"
+        "lblLoggedIn2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "selRecipientList.json"
       ]
     },
     {
@@ -43,7 +52,7 @@
         "forms",
         "UserPage",
         "Elements",
-        "selRecipientList.json"
+        "btnUserPageBack.json"
       ]
     },
     {
@@ -70,7 +79,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "UserPage.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

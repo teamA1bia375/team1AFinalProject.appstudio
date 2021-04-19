@@ -54,6 +54,24 @@
         "Elements",
         "lblMessage1.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddRecipient",
+        "Elements",
+        "Button1.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddRecipient",
+        "Elements",
+        "lblLoggedIn.json"
+      ]
     }
   ],
   "class": "",
@@ -70,7 +88,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "",
+  "onshow": "AddRecipient.onshow()",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

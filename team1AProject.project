@@ -39,16 +39,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "UserPage",
-            "UserPage.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "map",
-            "map.json"
+            "Map",
+            "Map.json"
           ]
         },
         {
@@ -57,6 +49,14 @@
             "forms",
             "AddRecipient",
             "AddRecipient.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "UserPage",
+            "UserPage.json"
           ]
         }
       ],
