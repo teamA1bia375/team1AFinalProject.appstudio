@@ -61,7 +61,11 @@
         "forms",
         "UserPage",
         "Elements",
+<<<<<<< Updated upstream
         "lblAccount.json"
+=======
+        "lblLoggedIn2.json"
+>>>>>>> Stashed changes
       ]
     },
     {
