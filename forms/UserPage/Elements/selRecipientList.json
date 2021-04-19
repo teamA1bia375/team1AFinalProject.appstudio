@@ -26,7 +26,7 @@
   "id": "selRecipientList",
   "inputmode": "",
   "items": "",
-  "left": 25,
+  "left": 9,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -65,10 +65,10 @@
   "script": "",
   "size": "",
   "style": "",
-  "top": 55,
+  "top": 39,
   "validation": "",
   "value": "",
   "valueCols": 10,
   "values": "101\n102\n103\n104",
-  "width": 244
+  "width": 306
 }
