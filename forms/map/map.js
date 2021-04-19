@@ -18,33 +18,8 @@ function gotLocation(location, lat, long) {
         position: point1
     });
 
-    //McDonalds
-    point2 = new google.maps.LatLng(41.268220, -95.947420);
-    marker2 = GoogleMap1.setMarker({
-        position: point2
-    });
-
-    //Hyvee
-    point3 = new google.maps.LatLng(41.242390, -95.994209);
-    marker3 = GoogleMap1.setMarker({
-        position: point3
-    });
-
-    //Subway
-    point4 = new google.maps.LatLng(41.268290, -95.946760);
-    marker4 = GoogleMap1.setMarker({
-        position: point4
-    });
-
-    //Popeyes
-    point5 = new google.maps.LatLng(41.260110, -95.982160);
-    marker5 = GoogleMap1.setMarker({
-        position: point5
-    });
-
 
 };
-
 
 Button1.onclick = function() {
     // have to run this before you do anything else - call this getLocation button
