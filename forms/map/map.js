@@ -10,7 +10,7 @@ function gotLocation(location, lat, long) {
     currentLat22 =location.coords.latitude
     currentLong22 = location.coords.longitude
     console.log(`lat and long are ${currentLat22} and ${currentLong22}`)
-    GoogleMap4.refresh()
+    GoogleMap1.refresh()
 
     //Put a marker on our location
     point1 = new google.maps.LatLng(location.coords.latitude, location.coords.longitude)
