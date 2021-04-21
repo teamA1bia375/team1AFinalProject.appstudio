@@ -6,7 +6,8 @@ let pw = "ac@T!.........."  // put your database password here
 let netID = "chc72331"
 let database = "375groupa1"
 let allUserData = []
-let userName = "" 
+let userName = ""
+let recipient = ""
 
 btnLogin.onclick=function(){
 //CHECKS IF USERNAME EXISTS
