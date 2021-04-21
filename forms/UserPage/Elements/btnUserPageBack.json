@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnUserPageBack",
-  "left": 12,
+  "left": 20,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 226,
+  "top": 382,
   "value": "Home page",
   "width": "auto"
 }

@@ -33,3 +33,6 @@ btnSubmit.onclick=function(){
 btnNewRecipient.onclick=function(){
   ChangeForm(AddRecipient)
 }
+btnMapPage.onclick=function(){
+  ChangeForm(map)
+}
