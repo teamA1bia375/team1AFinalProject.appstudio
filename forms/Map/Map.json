@@ -14,7 +14,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "Map",
         "Elements",
         "GoogleMap1.json"
       ]
@@ -23,7 +23,7 @@
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "Map",
         "Elements",
         "btnCurrentLoc.json"
       ]
@@ -35,7 +35,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "map",
+  "id": "Map",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
