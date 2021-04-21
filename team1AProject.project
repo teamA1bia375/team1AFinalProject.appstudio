@@ -39,8 +39,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "Map",
-            "Map.json"
+            "map",
+            "map.json"
           ]
         },
         {

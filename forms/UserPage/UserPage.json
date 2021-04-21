@@ -63,6 +63,15 @@
         "Elements",
         "btnNewRecipient.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "btnMapPage.json"
+      ]
     }
   ],
   "class": "",

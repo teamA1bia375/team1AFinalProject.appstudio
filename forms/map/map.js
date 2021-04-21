@@ -17,11 +17,15 @@ function gotLocation(location, lat, long) {
     marker1 = GoogleMap1.setMarker({
         position: point1
     });
-
 };
 
 btnCurrentLoc.onclick = function() {
     // have to run this before you do anything else - call this getLocation button
     navigator.geolocation.getCurrentPosition(gotLocation)
     NSB.WaitCursor(true)
+}
+
+
+btnBackToUser.onclick=function(){
+  ChangeForm(UserPage)
 }
