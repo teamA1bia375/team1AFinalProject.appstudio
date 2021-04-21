@@ -29,7 +29,7 @@
   "icon": "",
   "iconTitle": "",
   "id": "btnMapPage",
-  "left": 115,
+  "left": 117,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 263,
+  "top": 276,
   "value": "Maps",
   "width": "auto"
 }
