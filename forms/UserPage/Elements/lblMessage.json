@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": "auto",
+  "height": 19,
   "hidden": "",
   "id": "lblMessage",
   "labelStyle": "text",
-  "left": 13,
+  "left": 24,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 152,
+  "top": 206,
   "value": "",
-  "width": "auto"
+  "width": 260
 }
