@@ -16,7 +16,16 @@
         "forms",
         "UserPage",
         "Elements",
-        "btnUserPageBack.json"
+        "lblLoggedIn2.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "UserPage",
+        "Elements",
+        "selRecipientList.json"
       ]
     },
     {
@@ -43,7 +52,7 @@
         "forms",
         "UserPage",
         "Elements",
-        "selRecipientList.json"
+        "btnUserPageBack.json"
       ]
     },
     {
@@ -61,20 +70,7 @@
         "forms",
         "UserPage",
         "Elements",
-<<<<<<< Updated upstream
-        "lblAccount.json"
-=======
-        "lblLoggedIn2.json"
->>>>>>> Stashed changes
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "UserPage",
-        "Elements",
-        "lblLoggedIn2.json"
+        "btnMapPage.json"
       ]
     }
   ],
@@ -92,7 +88,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "UserPage.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

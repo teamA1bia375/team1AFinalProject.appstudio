@@ -28,8 +28,8 @@
   "hidden": "",
   "icon": "",
   "iconTitle": "",
-  "id": "btnNewRecipient",
-  "left": 159,
+  "id": "btnCurrentLoc",
+  "left": 33,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 380,
-  "value": "Add Receipients",
+  "top": 33,
+  "value": "My Location",
   "width": "auto"
 }
