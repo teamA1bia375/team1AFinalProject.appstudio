@@ -2,13 +2,14 @@
 let req = {} 
 let query = ""
 let results = []
-let pw = "ac@T!.........."  // put your database password here
+let pw = "ac@T!.........." 
 let netID = "chc72331"
 let database = "375groupa1"
 let allUserData = []
 let userName = ""
 let recipient = ""
 
+//SIGNING IN
 btnLogin.onclick=function(){
 //CHECKS IF USERNAME EXISTS
   userName = inptLogin.value
@@ -48,7 +49,7 @@ btnLogin.onclick=function(){
         lblMessage.value = "Error code: " + req.status
 }
 
-//GO TO SIGNIN PAGE
+//GO TO MAKE AN ACCOUNT PAGE
 btnUserInfo.onclick=function(){
   ChangeForm(UserInfo)
 }

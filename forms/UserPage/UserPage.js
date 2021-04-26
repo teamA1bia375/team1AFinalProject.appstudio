@@ -1,3 +1,5 @@
+// SELECTS RECIPIENTS FOR LOGGED IN USER 
+
 UserPage.onshow = function(){
   lblLoggedIn2.value = `Welcome, ${userName}!`
   query = "SELECT name FROM recipient NATURAL JOIN user_recipient WHERE userName = '" + userName + "'"
