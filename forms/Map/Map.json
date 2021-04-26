@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#03989E",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -35,6 +35,15 @@
         "map",
         "Elements",
         "btnBackToUser.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "map",
+        "Elements",
+        "imgLogo3.json"
       ]
     }
   ],

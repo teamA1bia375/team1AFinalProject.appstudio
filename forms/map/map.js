@@ -31,8 +31,6 @@ btnBackToUser.onclick = function() {
 }
 
 // This is the code that is supposed to get our distances and time
-// chin-hwa
-
 
 // --------- THIS NEEDS TO FIXED ---------------------
 

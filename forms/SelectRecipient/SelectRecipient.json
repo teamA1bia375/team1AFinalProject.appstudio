@@ -2,7 +2,7 @@
   "!type": "Form",
   "HTML": null,
   "attributes": "",
-  "background": "",
+  "background": "#03989E",
   "backgroundimage": "",
   "borderColor": "",
   "borderStyle": "",
@@ -71,6 +71,15 @@
         "SelectRecipient",
         "Elements",
         "btnMapPage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SelectRecipient",
+        "Elements",
+        "imgLogo2.json"
       ]
     }
   ],
