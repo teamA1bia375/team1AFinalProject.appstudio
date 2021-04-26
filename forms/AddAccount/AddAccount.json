@@ -14,63 +14,81 @@
       "!type": "External",
       "file": [
         "forms",
-        "UserPage",
+        "AddAccount",
         "Elements",
-        "lblLoggedIn2.json"
+        "inptFirstName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserPage",
+        "AddAccount",
         "Elements",
-        "selRecipientList.json"
+        "inptLastName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserPage",
+        "AddAccount",
         "Elements",
-        "lblMessage.json"
+        "inptCurrLocation.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserPage",
+        "AddAccount",
         "Elements",
-        "btnSubmit.json"
+        "inptEmail.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserPage",
+        "AddAccount",
         "Elements",
-        "btnUserPageBack.json"
+        "lblConfirm.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserPage",
+        "AddAccount",
         "Elements",
-        "btnNewRecipient.json"
+        "btnUserAdd.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserPage",
+        "AddAccount",
         "Elements",
-        "btnMapPage.json"
+        "btnUserBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddAccount",
+        "Elements",
+        "inptUserName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddAccount",
+        "Elements",
+        "inptPass.json"
       ]
     }
   ],
@@ -80,7 +98,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "UserPage",
+  "id": "AddAccount",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

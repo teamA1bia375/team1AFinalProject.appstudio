@@ -27,7 +27,7 @@ btnCurrentLoc.onclick = function() {
 
 
 btnBackToUser.onclick = function() {
-  ChangeForm(UserPage)
+  ChangeForm(SelectRecipient)
 }
 
 // This is the code that is supposed to get our distances and time

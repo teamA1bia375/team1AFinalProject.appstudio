@@ -23,16 +23,16 @@
           "!type": "External",
           "file": [
             "forms",
-            "HomePage",
-            "HomePage.json"
+            "LogOn",
+            "LogOn.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "UserInfo",
-            "UserInfo.json"
+            "AddAccount",
+            "AddAccount.json"
           ]
         },
         {
@@ -55,8 +55,8 @@
           "!type": "External",
           "file": [
             "forms",
-            "UserPage",
-            "UserPage.json"
+            "SelectRecipient",
+            "SelectRecipient.json"
           ]
         }
       ],
@@ -79,7 +79,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "HomePage",
+      "firstform": "LogOn",
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",

@@ -32,7 +32,7 @@ btnAdd.onclick=function(){
 //GOES BACK TO SELECT RECIPIENT PAGE
 
 Button1.onclick=function(){
-  ChangeForm(UserPage)
+  ChangeForm(SelectRecipient)
 }
 
 //SHOWS LOGGED ON USER NAME

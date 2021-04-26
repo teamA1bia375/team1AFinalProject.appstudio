@@ -35,7 +35,7 @@ btnLogin.onclick=function(){
         if (results.length === 0)    
            lblMessage2.value = "INCORRECT PASSWORD"
         else {        
-      ChangeForm(UserPage)
+      ChangeForm(SelectRecipient)
         } // end else
 
     } else   // the transit didn't work - bad wifi? server turned off?
@@ -51,5 +51,5 @@ btnLogin.onclick=function(){
 
 //GO TO MAKE AN ACCOUNT PAGE
 btnUserInfo.onclick=function(){
-  ChangeForm(UserInfo)
+  ChangeForm(AddAccount)
 }

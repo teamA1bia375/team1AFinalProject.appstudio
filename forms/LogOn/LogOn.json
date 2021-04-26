@@ -14,81 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "UserInfo",
+        "LogOn",
         "Elements",
-        "inptFirstName.json"
+        "btnUserInfo.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserInfo",
+        "LogOn",
         "Elements",
-        "inptLastName.json"
+        "inptLogin.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserInfo",
+        "LogOn",
         "Elements",
-        "inptCurrLocation.json"
+        "lblSignUp.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserInfo",
+        "LogOn",
         "Elements",
-        "inptEmail.json"
+        "btnLogin.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserInfo",
+        "LogOn",
         "Elements",
-        "lblConfirm.json"
+        "inptPassword.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "UserInfo",
+        "LogOn",
         "Elements",
-        "btnUserAdd.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "UserInfo",
-        "Elements",
-        "btnUserBack.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "UserInfo",
-        "Elements",
-        "inptUserName.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "UserInfo",
-        "Elements",
-        "inptPass.json"
+        "lblMessage2.json"
       ]
     }
   ],
@@ -98,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "UserInfo",
+  "id": "LogOn",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

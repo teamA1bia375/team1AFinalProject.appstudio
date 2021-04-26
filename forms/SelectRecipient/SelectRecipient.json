@@ -14,54 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "SelectRecipient",
         "Elements",
-        "btnUserInfo.json"
+        "lblLoggedIn2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "SelectRecipient",
         "Elements",
-        "inptLogin.json"
+        "selRecipientList.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "SelectRecipient",
         "Elements",
-        "lblSignUp.json"
+        "lblMessage.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "SelectRecipient",
         "Elements",
-        "btnLogin.json"
+        "btnSubmit.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "SelectRecipient",
         "Elements",
-        "inptPassword.json"
+        "btnUserPageBack.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "HomePage",
+        "SelectRecipient",
         "Elements",
-        "lblMessage2.json"
+        "btnNewRecipient.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SelectRecipient",
+        "Elements",
+        "btnMapPage.json"
       ]
     }
   ],
@@ -71,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "HomePage",
+  "id": "SelectRecipient",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

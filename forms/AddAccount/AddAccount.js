@@ -21,5 +21,5 @@ btnUserAdd.onclick = function() {
 
 //GO BACK TO SIGN IN PAGE
 btnUserBack.onclick=function(){
-  ChangeForm(HomePage)
+  ChangeForm(LogOn)
 }

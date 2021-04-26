@@ -21,7 +21,7 @@ UserPage.onshow = function(){
 }
 
 btnUserPageBack.onclick=function(){
-  ChangeForm(HomePage)
+  ChangeForm(LogOn)
 }
 
 btnSubmit.onclick=function(){
