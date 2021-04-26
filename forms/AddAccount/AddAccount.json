@@ -14,63 +14,81 @@
       "!type": "External",
       "file": [
         "forms",
-        "AddRecipient",
+        "AddAccount",
         "Elements",
-        "inptName.json"
+        "inptFirstName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "AddRecipient",
+        "AddAccount",
         "Elements",
-        "Label2.json"
+        "inptLastName.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "AddRecipient",
+        "AddAccount",
         "Elements",
-        "inptEmailRecipient.json"
+        "inptCurrLocation.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "AddRecipient",
+        "AddAccount",
         "Elements",
-        "btnAdd.json"
+        "inptEmail.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "AddRecipient",
+        "AddAccount",
         "Elements",
-        "lblMessage1.json"
+        "lblConfirm.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "AddRecipient",
+        "AddAccount",
         "Elements",
-        "Button1.json"
+        "btnUserAdd.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "AddRecipient",
+        "AddAccount",
         "Elements",
-        "lblLoggedIn.json"
+        "btnUserBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddAccount",
+        "Elements",
+        "inptUserName.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddAccount",
+        "Elements",
+        "inptPass.json"
       ]
     }
   ],
@@ -80,7 +98,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "AddRecipient",
+  "id": "AddAccount",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
@@ -88,7 +106,7 @@
   "onhide": "",
   "onkeypress": "",
   "onresize": "",
-  "onshow": "AddRecipient.onshow()",
+  "onshow": "",
   "openMode": "none",
   "parentForm": "",
   "position": "absolute",

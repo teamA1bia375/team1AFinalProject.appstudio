@@ -14,27 +14,54 @@
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "LogOn",
         "Elements",
-        "GoogleMap1.json"
+        "btnUserInfo.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "LogOn",
         "Elements",
-        "btnCurrentLoc.json"
+        "inptLogin.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "LogOn",
         "Elements",
-        "btnBackToUser.json"
+        "lblSignUp.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogOn",
+        "Elements",
+        "btnLogin.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogOn",
+        "Elements",
+        "inptPassword.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogOn",
+        "Elements",
+        "lblMessage2.json"
       ]
     }
   ],
@@ -44,7 +71,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "map",
+  "id": "LogOn",
   "language": "JavaScript",
   "left": "0",
   "locked": false,

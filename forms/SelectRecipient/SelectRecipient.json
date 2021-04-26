@@ -14,27 +14,63 @@
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "SelectRecipient",
         "Elements",
-        "GoogleMap1.json"
+        "lblLoggedIn2.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "SelectRecipient",
         "Elements",
-        "btnCurrentLoc.json"
+        "selRecipientList.json"
       ]
     },
     {
       "!type": "External",
       "file": [
         "forms",
-        "map",
+        "SelectRecipient",
         "Elements",
-        "btnBackToUser.json"
+        "lblMessage.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SelectRecipient",
+        "Elements",
+        "btnSubmit.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SelectRecipient",
+        "Elements",
+        "btnUserPageBack.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SelectRecipient",
+        "Elements",
+        "btnNewRecipient.json"
+      ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SelectRecipient",
+        "Elements",
+        "btnMapPage.json"
       ]
     }
   ],
@@ -44,7 +80,7 @@
   "expanded_pmp": null,
   "fullScreen": "true",
   "height": 460,
-  "id": "map",
+  "id": "SelectRecipient",
   "language": "JavaScript",
   "left": "0",
   "locked": false,
