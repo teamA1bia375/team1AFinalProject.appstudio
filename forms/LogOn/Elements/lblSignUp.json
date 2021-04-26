@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "lblSignUp",
   "labelStyle": "text",
-  "left": 9,
+  "left": 6,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 321,
+  "top": 295,
   "value": "Create an account! (SSO feature coming soon)",
   "width": "auto"
 }

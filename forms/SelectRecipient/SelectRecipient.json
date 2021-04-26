@@ -72,6 +72,15 @@
         "Elements",
         "btnMapPage.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "SelectRecipient",
+        "Elements",
+        "imgLogo2.json"
+      ]
     }
   ],
   "class": "",

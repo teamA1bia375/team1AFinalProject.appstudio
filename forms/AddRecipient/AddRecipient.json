@@ -72,6 +72,15 @@
         "Elements",
         "lblLoggedIn.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "AddRecipient",
+        "Elements",
+        "imgLogo4.json"
+      ]
     }
   ],
   "class": "",

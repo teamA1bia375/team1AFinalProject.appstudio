@@ -19,7 +19,7 @@
   "hidden": "",
   "id": "Label2",
   "labelStyle": "text",
-  "left": 14,
+  "left": 8,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 41,
+  "top": 64,
   "value": "Insert a new recipient",
   "width": 294
 }

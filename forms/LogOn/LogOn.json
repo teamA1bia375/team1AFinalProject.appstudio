@@ -63,6 +63,15 @@
         "Elements",
         "lblMessage2.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "LogOn",
+        "Elements",
+        "imgLogo.json"
+      ]
     }
   ],
   "class": "",
