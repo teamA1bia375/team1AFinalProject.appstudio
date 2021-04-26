@@ -39,6 +39,14 @@
           "!type": "External",
           "file": [
             "forms",
+            "SelectRecipient",
+            "SelectRecipient.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
             "map",
             "map.json"
           ]
@@ -49,14 +57,6 @@
             "forms",
             "AddRecipient",
             "AddRecipient.json"
-          ]
-        },
-        {
-          "!type": "External",
-          "file": [
-            "forms",
-            "SelectRecipient",
-            "SelectRecipient.json"
           ]
         }
       ],
