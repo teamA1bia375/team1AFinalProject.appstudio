@@ -31,6 +31,8 @@ btnBackToUser.onclick = function() {
 }
 
 // This is the code that is supposed to get our distances and time
+// Chin-hwa marker 4/27
+
 
 // --------- THIS NEEDS TO FIXED ---------------------
 
