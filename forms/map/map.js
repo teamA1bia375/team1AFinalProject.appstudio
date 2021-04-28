@@ -19,18 +19,21 @@ function gotLocation(location, lat, long) {
   });
 };
 
-btnCurrentLoc.onclick = function() {
+map.onshow = function() {
   // have to run this before you do anything else - call this getLocation button
   navigator.geolocation.getCurrentPosition(gotLocation)
   NSB.WaitCursor(true)
 }
 
+// This is the code that is supposed to get our distances and time
 
 btnBackToUser.onclick = function() {
   ChangeForm(SelectRecipient)
 }
 
 // This is the code that is supposed to get our distances and time
+// Chin-hwa marker 4/27
+
 
 // --------- THIS NEEDS TO FIXED ---------------------
 
