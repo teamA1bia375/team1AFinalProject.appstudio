@@ -14,10 +14,10 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 114,
+  "height": 96,
   "hidden": "",
   "id": "imgLogo",
-  "left": 174,
+  "left": 189,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -48,6 +48,6 @@
   "shape": "",
   "src": "images/logo.jpg",
   "style": "",
-  "top": 9,
-  "width": 142
+  "top": 11,
+  "width": 124
 }
