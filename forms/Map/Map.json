@@ -25,15 +25,6 @@
         "forms",
         "map",
         "Elements",
-        "btnCurrentLoc.json"
-      ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "map",
-        "Elements",
         "btnBackToUser.json"
       ]
     },

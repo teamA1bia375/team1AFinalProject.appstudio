@@ -19,7 +19,7 @@ function gotLocation(location, lat, long) {
   });
 };
 
-btnCurrentLoc.onclick = function() {
+map.onshow = function() {
   // have to run this before you do anything else - call this getLocation button
   navigator.geolocation.getCurrentPosition(gotLocation)
   NSB.WaitCursor(true)
