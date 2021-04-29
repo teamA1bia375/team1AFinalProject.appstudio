@@ -36,15 +36,6 @@
         "Elements",
         "imgLogo3.json"
       ]
-    },
-    {
-      "!type": "External",
-      "file": [
-        "forms",
-        "map",
-        "Elements",
-        "imgLogo3.json"
-      ]
     }
   ],
   "class": "",
