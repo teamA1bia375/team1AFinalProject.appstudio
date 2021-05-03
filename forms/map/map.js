@@ -36,10 +36,11 @@ var data = {
   service_id: 'service_w3iadvw',
   template_id: 'template_d83s3bn',
   template_params: {
-    'username': 'Chinhwa',
-    'message': 'Hi! ${username} is 15 minutes out!',
+    'to_name': recipient,
+    'username': userName,
+    'message': 'Hi! ${userName} is 15 minutes out!',
     'subject': 'a hard coded subject - from app',
-    'from_name': 'myETA',
+    'from_name': userName,
     'reply_to': 'bobcohle@gmail.com'
   }
 }
