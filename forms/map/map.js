@@ -31,8 +31,35 @@ btnBackToUser.onclick = function() {
   ChangeForm(SelectRecipient)
 }
 
-// This is the code that is supposed to get our distances and time
+// Email code ---------------------------
 
+var data = {
+    user_id: 'user_uaKC4vaL6RjG51v31aa2F',
+    service_id: 'service_w3iadvw',
+    template_id: 'template_d83s3bn',
+    template_params: {
+        'username': 'Chinhwa',
+        'message':'Hi!  ${username} is 15 minutes out!',
+        'subject': 'a hard coded subject - from app',
+        'from_name':'myETA',
+        'reply_to':'bobcohle@gmail.com'
+    }
+}
+
+btnSendEmail.onclick=function() {
+  $.ajax('https://api.emailjs.com/api/v1.0/email/send', {
+    type: 'POST',
+    data: JSON.stringify(data),
+    contentType: 'application/json'
+}).done(function() {
+    alert('Your mail is sent!');
+}).fail(function(error) {
+    alert('Oops... ' + JSON.stringify(error));
+});
+}
+
+
+// This is the code that is supposed to get our distances and time
 
 // --------- THIS NEEDS TO FIXED ---------------------
 
@@ -75,3 +102,4 @@ function callback(response, status) {
 }
 
 */
+
