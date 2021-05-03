@@ -24,12 +24,12 @@
   "fontWeight": "",
   "groupStyle": "",
   "grouping": "",
-  "height": 58,
+  "height": 49,
   "hidden": "",
   "icon": "",
   "iconTitle": "",
   "id": "btnSendEmail",
-  "left": 99,
+  "left": 107,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -60,7 +60,7 @@
   "size": " btn-md",
   "style": "",
   "toggleControl": "",
-  "top": 46,
+  "top": 55,
   "value": "Send!",
-  "width": 110
+  "width": 102
 }
