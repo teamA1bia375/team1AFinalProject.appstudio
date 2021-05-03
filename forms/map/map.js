@@ -25,8 +25,6 @@ map.onshow = function() {
   NSB.WaitCursor(true)
 }
 
-// This is the code that is supposed to get our distances and time
-
 btnBackToUser.onclick = function() {
   ChangeForm(SelectRecipient)
 }
@@ -34,28 +32,28 @@ btnBackToUser.onclick = function() {
 // Email code ---------------------------
 
 var data = {
-    user_id: 'user_uaKC4vaL6RjG51v31aa2F',
-    service_id: 'service_w3iadvw',
-    template_id: 'template_d83s3bn',
-    template_params: {
-        'username': 'Chinhwa',
-        'message':'Hi!  ${username} is 15 minutes out!',
-        'subject': 'a hard coded subject - from app',
-        'from_name':'myETA',
-        'reply_to':'bobcohle@gmail.com'
-    }
+  user_id: 'user_uaKC4vaL6RjG51v31aa2F',
+  service_id: 'service_w3iadvw',
+  template_id: 'template_d83s3bn',
+  template_params: {
+    'username': 'Chinhwa',
+    'message': 'Hi! ${username} is 15 minutes out!',
+    'subject': 'a hard coded subject - from app',
+    'from_name': 'myETA',
+    'reply_to': 'bobcohle@gmail.com'
+  }
 }
 
-btnSendEmail.onclick=function() {
+btnSendEmail.onclick = function() {
   $.ajax('https://api.emailjs.com/api/v1.0/email/send', {
     type: 'POST',
     data: JSON.stringify(data),
     contentType: 'application/json'
-}).done(function() {
+  }).done(function() {
     alert('Your mail is sent!');
-}).fail(function(error) {
+  }).fail(function(error) {
     alert('Oops... ' + JSON.stringify(error));
-});
+  });
 }
 
 
@@ -102,4 +100,3 @@ function callback(response, status) {
 }
 
 */
-
