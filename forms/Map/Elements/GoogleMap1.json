@@ -15,7 +15,7 @@
   "draggingCursor": "",
   "expanded_pmp": null,
   "heading": 0,
-  "height": "350",
+  "height": "300",
   "hidden": "",
   "id": "GoogleMap1",
   "keyboardShortcuts": true,
@@ -42,7 +42,7 @@
   "streetViewControl": true,
   "style": "",
   "tilt": 0,
-  "top": 88,
+  "top": "125",
   "width": "260",
   "zoom": 16,
   "zoomControl": true

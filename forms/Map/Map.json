@@ -36,6 +36,15 @@
         "Elements",
         "imgLogo3.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "map",
+        "Elements",
+        "btnSendEmail.json"
+      ]
     }
   ],
   "class": "",
